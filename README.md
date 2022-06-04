@@ -20,7 +20,7 @@ An Arma 3 Dedicated Server. Updates to the latest version every time it is resta
         -v path/to/configs:/arma3/configs \
         -v path/to/mods:/arma3/mods \
         -v path/to/servermods:/arma3/servermods \
-        -e ARMA_CONFIG=main.cfg \
+        -e ARMA_CONFIG=server.cfg \
         -e STEAM_USER=myusername \
         -e STEAM_PASSWORD=mypassword \
         synixebrett/arma3server
@@ -57,7 +57,7 @@ Profiles are saved in `/arma3/configs/profiles`
 | `-v /arma3/servermods`        | Mods that will only be loaded by the server |
 | `-e PORT`                     | Port used by the server, (uses PORT to PORT+3)            | 2302 |
 | `-e ARMA_BINARY`              | Arma 3 server binary to use, `./arma3server_x64` for x64   | `./arma3server` |
-| `-e ARMA_CONFIG`              | Config file to load from `/arma3/configs`                 | `main.cfg` |
+| `-e ARMA_CONFIG`              | Config file to load from `/arma3/configs`                 | `server.cfg` |
 | `-e ARMA_PARAMS`              | Additional Arma CLI parameters |
 | `-e ARMA_PROFILE`             | Profile name, stored in `/arma3/configs/profiles`         | `main` |
 | `-e ARMA_WORLD`               | World to load on startup                                  | `empty` |
