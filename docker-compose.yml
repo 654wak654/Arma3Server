@@ -11,5 +11,6 @@ services:
       - './configs:/arma3/configs'
       - './mods:/arma3/mods'
       - './servermods:/arma3/servermods'
+      - './keys:/arma3/keys'
     env_file: .env
     restart: unless-stopped
