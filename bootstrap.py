@@ -79,6 +79,6 @@ if __name__ == "__main__":
 
     objects = client.list_objects(MINIO_BUCKET_NAME, "@", True)
 
-    with ProcessPoolExecutor(max_workers=3):
+    with ProcessPoolExecutor():
         for object in objects:
             download_and_extract_modfile(object)
