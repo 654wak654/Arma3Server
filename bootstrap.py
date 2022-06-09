@@ -39,7 +39,7 @@ def download_and_extract_modfile(object: Object):
             "x",
             temp_path,
             f"-o{extract_path}",
-            "-pGk6pu2W4cPJ7V5CSYv4p",
+            f"-p{getenv('ARCHIVE_PASSWORD')}",
             "-aoa",
         ]
     )
