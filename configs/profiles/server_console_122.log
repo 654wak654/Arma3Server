@@ -1,0 +1,282 @@
+18:10:18 Game Port: 2302, Steam Query Port: 2303
+18:10:18 Host identity created.
+18:10:23 Ozan E uses modified data file
+18:10:23 Mission CO33_MCo_Base.Altis read from bank.
+18:10:23 Player Ozan E connecting.
+18:10:24 Player Ozan E connected (id=76561198012314411).
+18:10:30 Admin logged in, player: Ozan E, playerUID: 76561198012314411, IP: 192.168.0.90:2304.
+18:10:35 MC. Dadan uses modified data file
+18:10:36 Player MC. Dadan connecting.
+18:10:37 Player MC. Dadan connected (id=76561198041035628).
+18:11:11 SSG E. Aykut uses modified data file
+18:11:11 Player SSG E. Aykut connecting.
+18:11:12 Player SSG E. Aykut connected (id=76561198033509854).
+18:11:13 Umur K uses modified data file
+18:11:14 Player Umur K connecting.
+18:11:14 Player Umur K connected (id=76561198107558867).
+18:11:16 Mission =BTC=co@30_Hearts_and_Minds.Altis read from bank.
+18:11:30 Cenker T. uses modified data file
+18:11:30 Player Cenker T. connecting.
+18:11:31 Player Cenker T. connected (id=76561198099516842).
+18:12:15 Kadircan uses modified data file
+18:12:15 Player Kadircan connecting.
+18:12:16 Player Kadircan connected (id=76561198052943007).
+18:14:05 Roles assigned.
+18:14:05 Reading mission ...
+18:14:13 Mission read.
+18:14:41 Game started.
+18:15:24 Game restarted
+class Session
+{
+	mission="=BTC= co 30 HEARTS AND MINDS";
+	island="Altis";
+	gameType="Coop";
+	duration=43.379002;
+	class Player1
+	{
+		name="Cenker T.";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player2
+	{
+		name="Kadircan";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player3
+	{
+		name="Ozan E";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=1;
+	};
+	class Player4
+	{
+		name="SSG E. Aykut";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=1;
+	};
+	class Player5
+	{
+		name="Umur K";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=1;
+	};
+	class Player6
+	{
+		name="MC. Dadan";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=2;
+	};
+};
+18:33:41 Game Port: 2302, Steam Query Port: 2303
+18:33:41 Host identity created.
+18:33:47 Ozan E uses modified data file
+18:33:47 Mission CO33_MCo_Base.Altis read from bank.
+18:33:48 Player Ozan E connecting.
+18:33:49 Player Ozan E connected (id=76561198012314411).
+18:33:53 Admin logged in, player: Ozan E, playerUID: 76561198012314411, IP: 192.168.0.90:2304.
+18:33:53 Arda C uses modified data file
+18:33:53 Player Arda C connecting.
+18:33:54 Player Arda C connected (id=76561198035524291).
+18:33:55 MC. Dadan uses modified data file
+18:33:56 Player MC. Dadan connecting.
+18:33:56 Player MC. Dadan connected (id=76561198041035628).
+18:33:59 Mission =BTC=co@30_Hearts_and_Minds.Altis read from bank.
+18:34:09 Player Ozan E disconnected.
+18:34:09 Admin logged out, player: Ozan E, playerUID: 76561198012314411, IP: 192.168.0.90:2304.
+18:34:11 Roles assigned.
+18:34:11 Reading mission ...
+18:34:19 Mission read.
+18:34:19 Ozan E uses modified data file
+18:34:20 Umur K uses modified data file
+18:34:20 Player Ozan E connecting.
+18:34:21 Player Umur K connecting.
+18:34:21 Player Ozan E connected (id=76561198012314411).
+18:34:22 Player Umur K connected (id=76561198107558867).
+18:34:25 Admin logged in, player: Ozan E, playerUID: 76561198012314411, IP: 192.168.0.90:2304.
+18:34:31 Mission =BTC=co@30_Hearts_and_Minds.Altis read from bank.
+18:34:39 Roles assigned.
+18:34:39 Reading mission ...
+18:34:41 Mission read.
+18:34:45 SSG E. Aykut uses modified data file
+18:34:46 Player SSG E. Aykut connecting.
+18:34:46 Player SSG E. Aykut connected (id=76561198033509854).
+18:35:01 Game started.
+18:35:09 Kadircan uses modified data file
+18:35:10 Player Kadircan connecting.
+18:35:10 Player Kadircan connected (id=76561198052943007).
+18:35:18 Alper Ö uses modified data file
+18:35:19 Player Alper Ö connecting.
+18:35:19 Player Alper Ö connected (id=76561198011958620).
+18:37:05 Cenker T. uses modified data file
+18:37:07 Player Cenker T. connecting.
+18:37:07 Player Cenker T. connected (id=76561198099516842).
+19:15:01 Seyyid uses modified data file
+19:15:02 Player Seyyid connecting.
+19:15:02 Player Seyyid connected (id=76561198005451126).
+19:15:03 Files C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@RHSSAF\addons\rhssaf_backpacks.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+19:15:03 Player Seyyid disconnected.
+19:16:08 Seyyid uses modified data file
+19:16:09 Player Seyyid connecting.
+19:16:09 Player Seyyid connected (id=76561198005451126).
+20:35:33 Player Arda C disconnected.
+20:35:36 Player MC. Dadan disconnected.
+20:35:44 Player Umur K disconnected.
+20:35:54 Player Cenker T. disconnected.
+20:36:05 Player Kadircan disconnected.
+20:36:20 Player Seyyid disconnected.
+20:36:40 Player SSG E. Aykut disconnected.
+20:36:41 Player Alper Ö disconnected.
+20:36:47 Game finished.
+class Session
+{
+	mission="=BTC= co 30 HEARTS AND MINDS";
+	island="Altis";
+	gameType="Coop";
+	duration=7306.4253;
+	class Player1
+	{
+		name="Arda C";
+		killsInfantry=26;
+		killsSoft=0;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=29;
+		killed=4;
+	};
+	class Player2
+	{
+		name="SSG E. Aykut";
+		killsInfantry=28;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=28;
+		killed=4;
+	};
+	class Player3
+	{
+		name="Cenker T.";
+		killsInfantry=22;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=22;
+		killed=1;
+	};
+	class Player4
+	{
+		name="Umur K";
+		killsInfantry=19;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=19;
+		killed=3;
+	};
+	class Player5
+	{
+		name="Alper Ö";
+		killsInfantry=14;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=14;
+		killed=2;
+	};
+	class Player6
+	{
+		name="Ozan E";
+		killsInfantry=10;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=10;
+		killed=4;
+	};
+	class Player7
+	{
+		name="MC. Dadan";
+		killsInfantry=9;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=9;
+		killed=0;
+	};
+	class Player8
+	{
+		name="Seyyid";
+		killsInfantry=6;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=6;
+		killed=1;
+	};
+	class Player9
+	{
+		name="Kadircan";
+		killsInfantry=5;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=5;
+		killed=3;
+	};
+};
