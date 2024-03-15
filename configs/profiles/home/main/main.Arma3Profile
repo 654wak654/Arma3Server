@@ -11,3 +11,7 @@ soundEnableEAX=1;
 soundEnableHW=0;
 volumeMapDucking=1;
 volumeUI=1;
+activeKeys[]=
+{
+	"BIS_=BTC=co@30_Hearts_and_Minds.Tanoa_done"
+};
